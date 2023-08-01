@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Eldeniz Mahmudov</h1>
 <h3 align="center">Azerbaijani Front end Developer</h3>
 
-<img src="https://gifdb.com/images/high/programming-window-coding-hello-world-nezfipv95sibsnvo.gif" width="70%" height="40%" alt="">
+<img src="https://media.tenor.com/cI3eAVLXj48AAAAC/hello-world.gif" width="500" height="350" alt="">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
