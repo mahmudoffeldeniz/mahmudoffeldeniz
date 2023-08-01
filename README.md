@@ -1,4 +1,4 @@
-<img src="https://images.wallpapersden.com/image/download/late-night-coding_bWxubGiUmZqaraWkpJRmZWZmaa1qamtn.jpg" width="100%" height="500px" alt="">
+<img src="https://images.wallpapersden.com/image/download/late-night-coding_bWxubGiUmZqaraWkpJRmZWZmaa1qamtn.jpg" width="100%" height="450px" alt="">
 </center>
 
 
@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Eldeniz Mahmudov</h1>
 <h3 align="center">Azerbaijani Front end Developer</h3>
 
-<img src="https://media.tenor.com/cI3eAVLXj48AAAAC/hello-world.gif" width="100%"  alt="">
+<img src="https://media.tenor.com/cI3eAVLXj48AAAAC/hello-world.gif" width="100%"  height="300px"   alt="">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
