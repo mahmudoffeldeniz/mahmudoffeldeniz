@@ -27,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudoffeldeniz&show_icons=true&locale=en&layout=compact" alt="mahmudoffeldeniz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudoffeldeniz&show_icons=true&locale=en" alt="mahmudoffeldeniz" /></p>
+
+<img src="https://i.imgur.com/dAtcCfH.gif" width="100%" height="400px" alt="">
