@@ -1,5 +1,5 @@
-
-<img src="https://images.wallpapersden.com/image/download/late-night-coding_bWxubGiUmZqaraWkpJRmZWZmaa1qamtn.jpg" alt="">
+<img src="https://images.wallpapersden.com/image/download/late-night-coding_bWxubGiUmZqaraWkpJRmZWZmaa1qamtn.jpg" width="100%" height="500px" alt="">
+</center>
 
 
 
@@ -8,11 +8,7 @@
 <h1 align="center">Hi 👋, I'm Eldeniz Mahmudov</h1>
 <h3 align="center">Azerbaijani Front end Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudoffeldeniz&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudoffeldeniz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmudoffeldeniz" alt="mahmudoffeldeniz" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img src="https://i.imgur.com/dAtcCfH.gif" width="100%" height="400px" alt="">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,4 +24,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudoffeldeniz&show_icons=true&locale=en" alt="mahmudoffeldeniz" /></p>
 
-<img src="https://i.imgur.com/dAtcCfH.gif" width="100%" height="400px" alt="">
