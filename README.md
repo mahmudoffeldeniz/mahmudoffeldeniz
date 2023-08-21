@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi <img
                                 src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"
-                                style="width: 50px; height: 50px;" alt="hi">, I'm Eldeniz Mahmudov</h1>
+                                style="width: 45px; height: 45px;" alt="hi">, I'm Eldeniz Mahmudov</h1>
 <h3 align="center">Azerbaijani Front end Developer</h3>
 
 
