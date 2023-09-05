@@ -1,9 +1,7 @@
 
-<center>
-<div>
-<img  src="https://media1.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif?cid=6c09b952s2xed0ed2qm4gbkcsa1uti9w5kfynvr35ul13pc7&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="200px"  alt="">
-</div>
-</center>
+
+<img  src="https://blog.hubspot.com/hs-fs/hubfs/7a8f8d634013568124e130728834d47a.gif?width=1500&name=7a8f8d634013568124e130728834d47a.gif" width="100%"  alt="">
+
 
 
 
