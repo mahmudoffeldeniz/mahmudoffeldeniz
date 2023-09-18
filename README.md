@@ -1,12 +1,12 @@
 
 
-<img  src="https://clipart-library.com/images/6cr6RKMdi.gif" width="100px"  alt="">
 
 
 
 
 
-<h1 align="center">Hi <img
+<h1 align="center"><img  src="https://clipart-library.com/images/6cr6RKMdi.gif" width="100px"  alt="">
+Hi <img
                                 src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"
                                 style="width: 45px; height: 45px;" alt="hi">, I'm Eldeniz Mahmudov</h1>
 <h3 align="center">Azerbaijani Front end Developer</h3>
