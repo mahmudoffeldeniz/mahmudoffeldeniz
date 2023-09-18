@@ -5,14 +5,14 @@
 
 
 
-<h1 align="center"><img  src="https://clipart-library.com/images/6cr6RKMdi.gif" width="100px"  alt="">
+<h1 align="center">
 Hi <img
                                 src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"
                                 style="width: 45px; height: 45px;" alt="hi">, I'm Eldeniz Mahmudov</h1>
 <h3 align="center">Azerbaijani Front end Developer</h3>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3><img  src="https://clipart-library.com/images/6cr6RKMdi.gif" width="100px"  alt="">
 <p align="left">
 <a href="https://linkedin.com/in/eldeniz-mahmudov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eldeniz-mahmudov" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mr_mhmdov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_mhmudov" height="30" width="40" /></a>
