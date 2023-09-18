@@ -1,6 +1,6 @@
 
 
-<img  src="https://clipart-library.com/images/6cr6RKMdi.gif" width="20%"  alt="">
+<img  src="https://clipart-library.com/images/6cr6RKMdi.gif" width="100px"  alt="">
 
 
 
