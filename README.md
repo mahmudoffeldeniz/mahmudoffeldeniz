@@ -1,6 +1,6 @@
 
 
-<img  src="https://www.sean-lloyd.com/assets/static/20210303-dino-game-2.8cbd2dc.91351d5ac9153c4fc6ede3603c6fd687.gif" width="100%"  alt="">
+<img  src="https://clipart-library.com/images/6cr6RKMdi.gif" width="20%"  alt="">
 
 
 
