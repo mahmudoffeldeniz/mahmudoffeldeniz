@@ -8,7 +8,7 @@
 <h1 align="center">
 Hi <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.webp"
                                 style="width: 45px; height: 45px;" alt="hi">, I'm Eldeniz Mahmudov</h1>
-<h3 align="center"> Front end Developer</h3>
+<h2 align="center"> Front end Developer</h3>
 
 
 <h3 align="left">Connect with me:</h3>
