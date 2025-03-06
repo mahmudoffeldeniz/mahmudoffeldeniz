@@ -9,7 +9,7 @@
 
 <div align="center">
   
-<img  src='https://visitcount.itsvg.in/api?id=Afsanehaa&label=Profile%20Views&color=3&icon=5&prett'>
+<img  src='https://i.gifer.com/39Cg.gif'>
 
 </div>
  
