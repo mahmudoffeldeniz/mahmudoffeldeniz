@@ -1,7 +1,6 @@
 <h1 align="center">
 <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.webp"
-                                style="width: 25px; height: 25px;" alt="hi">, <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%2C+i'm+Eldeniz+Mahmudov;Welcome+to+my+github+profile" alt="Typing SVG" /></a></h1>
-
+                                style="width: 25px; height: 25px;" alt="hi">,<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C++i'm+Eldeniz+Mahmudov;Welcome+to+my+github+profile" alt="Typing SVG" /></a>
 <img align="right" width='100%' src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
 
   <br><br>
