@@ -32,7 +32,7 @@ Hi <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40
 <div display='flex' align='center'>
 
 <img src="https://github-readme-stats.vercel.app/api?username=mahmudoffeldeniz&show_icons=true&locale=en"
-color='error' width='45%' height='190'> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=afsanehaa&layout=donut&https://github.com/afsanehaa/github-readme-stats&theme=tokyonight' width='54%' height='190'>
+  background-color: transparent; width='45%' height='190'> <img src='https://github-readme-stats.vercel.app/api/top-langs/? width='54%' height='190'>
 
 </div>
 
