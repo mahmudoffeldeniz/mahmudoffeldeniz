@@ -31,9 +31,9 @@ Hi <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40
 <br><br>
 
 
-<div display='flex' align='center'  background-color: transparent;>
+<div display='flex' align='center' background-color='transparent>
 
-<img  background-color: transparent; src="https://github-readme-stats.vercel.app/api?username=mahmudoffeldeniz&show_icons=true&locale=en"  width='45%' height='160'> < background-color: transparent; img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudoffeldeniz&show_icons=true&locale=en&layout=compact" width='54%' height='160'  background-color: transparent;>
+<img  background-color='transparent' src="https://github-readme-stats.vercel.app/api?username=mahmudoffeldeniz&show_icons=true&locale=en"  width='45%' height='160'> <img background-color='transparent src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudoffeldeniz&show_icons=true&locale=en&layout=compact" width='54%' height='160' background-color='transparent >
 
 </div>
 
