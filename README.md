@@ -30,20 +30,16 @@ Hi <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40
 
 <br><br>
 
-<div display='flex' align='center'>
 
 <div display='flex' align='center'>
 
-<img src='https://github-readme-stats.vercel.app/api?username=
-Navigation Menu
-mahmudoffeldeniz&show_icons=true&theme=tokyonight' width='45%' height='190'> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudoffeldeniz&show_icons=true&locale=en&layout=compact" width='45%' height='190'> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=
 Navigation Menu
 mahmudoffeldeniz&layout=donut&https://github.com/afsanehaa/github-readme-stats&theme=tokyonight' width='54%' height='190'>
 
 </div>
 
 
-</div>
 
 
 <br><br><br><br>
