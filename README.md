@@ -33,7 +33,7 @@ Hi <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40
 
 <div display='flex' align='center'>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahmudoffeldeniz&show_icons=true&locale=en"  width='45%' height='190'> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudoffeldeniz&show_icons=true&locale=en&layout=compact" width='54%' height='160'>
+<img src="https://github-readme-stats.vercel.app/api?username=mahmudoffeldeniz&show_icons=true&locale=en"  width='45%' height='160'> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudoffeldeniz&show_icons=true&locale=en&layout=compact" width='54%' height='160'>
 
 </div>
 
