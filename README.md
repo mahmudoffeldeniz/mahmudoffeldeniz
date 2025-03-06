@@ -44,14 +44,14 @@ Hi <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40
 
 <p align='center'>
 
-<a href='https://www.linkedin.com/in/afsaneh-abdi-dizaji/'> 
+<a href='#'> 
 
 <img src='https://img.shields.io/badge/%20-Linkedin-blue?logo=linkedin'>
   
 </a>
 
 
-<a href='https://www.linkedin.com/in/afsaneh-abdi-dizaji/'> 
+<a href='#'> 
 
 <img src='https://img.shields.io/badge/%20Instagram-pink?logo=instagram'>
   
