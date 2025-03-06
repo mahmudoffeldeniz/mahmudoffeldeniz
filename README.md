@@ -11,7 +11,7 @@ Hi <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40
 
 <div align="center">
   
-<img  src='https://www.aalpha.net/wp-content/uploads/2021/02/reactjs-framework.gif'  width='20' height='20'>
+<img  src='https://www.aalpha.net/wp-content/uploads/2021/02/reactjs-framework.gif'  width='100%' height='90'>
 
 </div>
  
