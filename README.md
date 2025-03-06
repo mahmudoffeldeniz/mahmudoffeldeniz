@@ -33,9 +33,9 @@ Hi <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudoffeldeniz&show_icons=true&locale=en" alt="mahmudoffeldeniz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudoffeldeniz&show_icons=true&locale=en" alt="mahmudoffeldeniz" width='20%' /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudoffeldeniz&show_icons=true&locale=en&layout=compact" alt="mahmudoffeldeniz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudoffeldeniz&show_icons=true&locale=en&layout=compact" alt="mahmudoffeldeniz" width='20%'/></p>
 
 </div>
 
