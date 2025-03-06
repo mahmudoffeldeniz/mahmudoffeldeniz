@@ -1,7 +1,5 @@
-<h2 align="center">
-
   <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C++i'm+Eldeniz+Mahmudov;Welcome+to+my+github+profile" alt="Typing SVG" />
-  </a></h2>
+  </a>
 
   
 <img align="right" width='100%' src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
