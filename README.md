@@ -32,10 +32,11 @@ Hi <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40
 
 <div display='flex' align='center'>
 
-<div><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudoffeldeniz&show_icons=true&locale=en" alt="mahmudoffeldeniz" width='20%' /></p></div>
+<div display='flex' align='center'>
 
-<div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudoffeldeniz&show_icons=true&locale=en&layout=compact" alt="mahmudoffeldeniz" width='20%'/></p></div>
+<img src='https://github-readme-stats.vercel.app/api?username=afsanehaa&show_icons=true&theme=tokyonight' width='45%' height='190'> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=afsanehaa&layout=donut&https://github.com/afsanehaa/github-readme-stats&theme=tokyonight' width='54%' height='190'>
 
+</div>
 
 
 </div>
