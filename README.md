@@ -1,6 +1,5 @@
-<h1 align="center">
-<img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.webp"
-                                style="width: 15px; height: 15px;" alt="hi">
+
+
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C++i'm+Eldeniz+Mahmudov;Welcome+to+my+github+profile" alt="Typing SVG" /></a>
 
   
