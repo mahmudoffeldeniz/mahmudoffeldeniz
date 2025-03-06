@@ -4,8 +4,8 @@
 
   <br><br>
 
-<p align="center"> I am a new software engineering student 
-  I've recently started learning JavaScript and the React framework.</p>
+<p align="center"> I am a Front end Developer 
+ </p>
 
 <div align="center">
   
