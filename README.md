@@ -6,7 +6,7 @@
 
   <br><br>
 
-<p align="center" color="error"> I'm front end developer
+<p align="center"> I'm front end developer
  </p>
 
 <div align="center">
