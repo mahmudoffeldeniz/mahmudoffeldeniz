@@ -6,7 +6,7 @@
 
   <br><br>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Front+end+Developer+" alt="Typing SVG" /></a>
+<p align="center"> I'm front end developer
  </p>
 
 <div align="center">
